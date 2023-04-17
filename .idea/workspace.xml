@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="add req files">
+    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="add dependencies">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681680119572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add dependencies">
+      <created>1681681138471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681681138471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add req files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add req files" />
+    <MESSAGE value="add dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dependencies" />
   </component>
 </project>
