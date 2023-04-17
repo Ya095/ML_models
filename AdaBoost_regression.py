@@ -12,13 +12,11 @@ T = 1           # число алгоритмов в композиции
 max_depth = 2   # максимальная глубина решающих деревьев
 algs = []       # список полученных алгоритмов
 s = np.array(y.ravel()) # остатки, изначально берем как значения ф-ии "у"
-print(s)
+
 for n in range(T):
     algs.append(DecisionTreeRegressor(max_depth=max_depth))
     algs[-1].fit(x, s)
-    print('\n', algs[-1].predict(x))
     s -= algs[-1].predict(x)    # пересчитываем остатки
-    print('\n', s)
 
 # восстанавливаем исходный сигнал по набору полученных деревьев
 yy = algs[0].predict(x)
