@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/AdaBoost_regression.py" afterDir="false" />
+    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="del &quot;print&quot;">
+      <change afterPath="$PROJECT_DIR$/Classification_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grad_boost_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Freeze Requirements File" />
       </list>
     </option>
   </component>
@@ -69,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681725795498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add first algorithm">
+      <created>1681730731256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681730731256</updated>
+    </task>
+    <task id="LOCAL-00005" summary="del &quot;print&quot;">
+      <created>1681731381549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681731381549</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +130,8 @@
     <MESSAGE value="add req files" />
     <MESSAGE value="add dependencies" />
     <MESSAGE value="add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+    <MESSAGE value="add first algorithm" />
+    <MESSAGE value="del &quot;print&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="del &quot;print&quot;" />
   </component>
 </project>
