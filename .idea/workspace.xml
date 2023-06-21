@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="del &quot;print&quot;">
-      <change afterPath="$PROJECT_DIR$/Classification_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grad_boost_1.py" afterDir="false" />
+    <list default="true" id="4447f4a2-5d00-4dd6-a7b1-58ca759faa5a" name="Changes" comment="add algorithms">
+      <change afterPath="$PROJECT_DIR$/DBSCAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K_means.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Freeze Requirements File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681731381549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add algorithms">
+      <created>1687095034677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687095034677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +139,7 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="add first algorithm" />
     <MESSAGE value="del &quot;print&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="del &quot;print&quot;" />
+    <MESSAGE value="add algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="add algorithms" />
   </component>
 </project>
